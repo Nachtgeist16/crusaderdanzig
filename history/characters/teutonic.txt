@@ -1,0 +1,15 @@
+9999999 = {
+	 name = Friedrich
+	 martial = 22
+	 diplomacy = 9
+	 intrigue = 13
+	 stewardship = 9
+	 dynasty = 9999999
+	 religion = "crusader"
+	 culture = teutonic
+	 trait = gregarious
+	
+	 846.1.1 = {
+		 birth = yes
+	 }
+ }
